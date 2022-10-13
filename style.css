@@ -13,4 +13,5 @@ html{
 
 .sidebar{
     background-image: url(./img/sidebar-bg.png);
+    width: 10%;
 }
